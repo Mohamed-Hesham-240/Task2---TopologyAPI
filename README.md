@@ -1,2 +1,27 @@
 # Task2---TopologyAPI
-An API library that reads and writes topologies from and to disk, stores topologies in memory, and executes operations on them.
+- An API library that reads and writes topologies from and to disk, stores topologies in memory, and executes operations on them.
+- The project is mainly implemented using Java as
+  - Java is object-oriented in its nature, so it can easily provide reusable code and efficient modularity.
+  - It is easy to write, comile, and debug.
+  - It is portable as it can easily run on any computer system platfrom indepented.
+  - It has an efficient garbage collection system that manages the dynampic memory allocated in run time relieving burden this burden on the developer. 
+- Gradle is the build tool used in this project.
+- PVS studio has been used to analyze the code.
+- Testing is done using JUnit4, and the files used in testing exists in the test-> resources folder.
+- Design choices: 
+  - TopologyAPI is implemented using static helper methods which are grouped in the Utility class.
+  - It is easy to write, comile, and debug.
+  - Getters are provided in the Topology and Device class in case they are needed in future requirement although most of them are not currently in use. 
+  - The Utility and TopologyAPI class can not be instantiated as they only provide services (statically) and have no physical representation in the real world.
+  - Invalid JSON parsing throws an exception
+  - Reading from invalid file location throws an exception 
+  - Parsing an empty file throws an exception.
+  - Writing a topology that does not exist in the memory creates an empty file in the specified location.
+  - A query for topologies stored in memory returns an empty list if no topologies exists.
+  - Trying to delete a topology that does not exist in memory raises a flag.
+  - A query for devices in a topology that does not exist in memory returns a null value.
+  - A query for devices in a topology that exists in the memory but does not contain a components array or an empty one returns an empty list.
+  - A quwery for devices connected to a node in a topology that does not exist in the system returns a null value.
+  - A quwery for devices connected to a node that has no devices connected to it in a topology return an empty list.
+  - A quwery for devices connected to a node in a topology that does not contain a components array or an empty one returns an empty list.
+  - the deleteTopology method is used at the begining of every test case to clear the memory. It has been tested manually before use and also exists in the test suite.
