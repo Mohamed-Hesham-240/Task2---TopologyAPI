@@ -54,8 +54,8 @@ public class TopologyAPI {
         Topology topology = findTopologyById(topologyID);
         String topologyString = "";
         if (topology != null){
-            topologyString = topology.toString();
-            topologyString = Utility.formatJson(topologyString);
+            //topologyString = topology.toString();
+            topologyString = Utility.formatJson(topology.getInformation());
         }
         Utility.writeToFile(topologyString, path);
     }

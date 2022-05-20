@@ -1,273 +1,289 @@
-2022-05-20 07:34:21 [INFO ] c.p.r.NativeLoader:64 - ********************************
-2022-05-20 07:34:21 [INFO ] c.p.r.NativeLoader:65 - Native library search paths: 
-2022-05-20 07:34:21 [INFO ] c.p.r.NativeLoader:948 - C:\Users\dell\AppData\Roaming\PVS-Studio-Java\7.18.59860
-2022-05-20 07:34:21 [INFO ] c.p.r.NativeLoader:948 - .
-2022-05-20 07:34:21 [INFO ] c.p.r.NativeLoader:948 - C:\Users\dell\AppData\Roaming\PVS-Studio-Java\7.18.59860\..
-2022-05-20 07:34:21 [INFO ] c.p.r.NativeLoader:948 - C:\Users\dell\AppData\Roaming\PVS-Studio-Java\7.18.59860\..\..
-2022-05-20 07:34:21 [INFO ] c.p.r.NativeLoader:948 - C:\Users\dell\AppData\Roaming\PVS-Studio-Java\7.18.59860\..\..\build
-2022-05-20 07:34:21 [INFO ] c.p.r.NativeLoader:67 - Additional path: native/win
-2022-05-20 07:34:21 [INFO ] c.p.r.NativeLoader:76 - Native library found: C:\Users\dell\AppData\Roaming\PVS-Studio-Java\7.18.59860\native\win\analysis-core.dll
-2022-05-20 07:34:21 [INFO ] c.p.r.NativeLoader:77 - ********************************
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:49 - Module: Topology_API
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:50 - Sources:
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:52 - Classpath:
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jsobject
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jdwp.agent
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jcmd
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.desktop
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.crypto.ec
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jartool
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.security.jgss
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.javadoc
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.scripting.nashorn
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.accessibility
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.xml.dom
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.smartcardio
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.naming.rmi
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.management.rmi
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jstatd
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jconsole
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.naming
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.xml
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.datatransfer
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.dynalink
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.compiler
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.instrument
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.security.jgss
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.jvmstat
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.rmi
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.management.agent
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jfr
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.management.jfr
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.ed
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.pack
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.transaction.xa
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.editpad
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.vm.compiler.management
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jdeps
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.rmic
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.sctp
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.net
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.xml.crypto
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.net.http
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.prefs
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.se
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.crypto.mscapi
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.zipfs
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.httpserver
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.compiler
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.unsupported
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.logging
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.security.sasl
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.vm.compiler
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.sql.rowset
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.base
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.sql
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.scripting.nashorn.shell
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.security.auth
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.crypto.cryptoki
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jdi
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.management
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.management
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.attach
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.scripting
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.vm.ci
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.unsupported.desktop
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.le
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jlink
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.hotspot.agent
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.opt
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.aot
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.charsets
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jshell
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.localedata
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.naming.dns
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:49 - Module: Topology_API.test
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:50 - Sources:
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/Desktop/Topology API/src/test/java
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:52 - Classpath:
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jsobject
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jdwp.agent
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.0/fc9dff4bb36d627bdc553de77e1f17efd790876c/apiguardian-api-1.1.0.jar
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jcmd
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.9.0/8a1167e089096758b49f9b34066ef98b2f4b37aa/gson-2.9.0.jar
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.desktop
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.crypto.ec
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jartool
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.security.jgss
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.7.0/eadb73c5074a4ac71061defd00fc176152a4d12c/junit-platform-engine-1.7.0.jar
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.javadoc
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.scripting.nashorn
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.accessibility
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.7.0/d9044d6b45e2232ddd53fa56c15333e43d1749fd/junit-jupiter-engine-5.7.0.jar
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.xml.dom
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.smartcardio
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.naming.rmi
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.management.rmi
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jstatd
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/Desktop/Topology API/build/classes/java/main
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jconsole
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.naming
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.xml
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.datatransfer
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.dynalink
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.compiler
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.instrument
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.security.jgss
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.jvmstat
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.rmi
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.management.agent
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jfr
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.management.jfr
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.ed
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.7.0/b25f3815c4c1860a73041e733a14a0379d00c4d5/junit-jupiter-api-5.7.0.jar
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.pack
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.transaction.xa
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.editpad
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.vm.compiler.management
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jdeps
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.rmic
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.sctp
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.net
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.xml.crypto
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.net.http
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/.gradle/caches/modules-2/files-2.1/junit/junit/4.13.1/cdd00374f1fee76b11e2a9d127405aa3f6be5b6a/junit-4.13.1.jar
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.prefs
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.se
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.crypto.mscapi
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.zipfs
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.httpserver
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.compiler
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.unsupported
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.logging
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.security.sasl
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.vm.compiler
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.sql.rowset
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.base
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.sql
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.scripting.nashorn.shell
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.security.auth
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.crypto.cryptoki
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jdi
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/28c11eb91f9b6d8e200631d46e20a7f407f2a046/opentest4j-1.2.0.jar
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.management
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.management
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.attach
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.scripting
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.vm.ci
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.unsupported.desktop
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.le
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jlink
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.hotspot.agent
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.opt
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.aot
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.7.0/84e309fbf21d857aac079a3c1fffd84284e1114d/junit-platform-commons-1.7.0.jar
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.charsets
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jshell
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.localedata
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.naming.dns
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:49 - Module: Topology_API.main
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:50 - Sources:
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/Desktop/Topology API/src/main/java
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:52 - Classpath:
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jsobject
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jdwp.agent
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jcmd
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.9.0/8a1167e089096758b49f9b34066ef98b2f4b37aa/gson-2.9.0.jar
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.desktop
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.crypto.ec
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jartool
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.security.jgss
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.javadoc
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.scripting.nashorn
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.accessibility
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.xml.dom
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.smartcardio
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.naming.rmi
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.management.rmi
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jstatd
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jconsole
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.naming
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.xml
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.datatransfer
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.dynalink
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.compiler
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.instrument
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.security.jgss
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.jvmstat
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.rmi
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.management.agent
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jfr
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.management.jfr
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.ed
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.pack
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.transaction.xa
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.editpad
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.vm.compiler.management
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jdeps
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.rmic
-2022-05-20 07:34:22 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.sctp
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.net
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.xml.crypto
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.net.http
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/.gradle/caches/modules-2/files-2.1/junit/junit/4.13.1/cdd00374f1fee76b11e2a9d127405aa3f6be5b6a/junit-4.13.1.jar
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.prefs
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.se
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.crypto.mscapi
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.zipfs
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.httpserver
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.compiler
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.unsupported
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.logging
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.security.sasl
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.vm.compiler
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.sql.rowset
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.base
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.sql
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.scripting.nashorn.shell
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.security.auth
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.crypto.cryptoki
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jdi
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.management
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.management
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.attach
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.scripting
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.vm.ci
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.unsupported.desktop
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.le
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jlink
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.hotspot.agent
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.opt
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.aot
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.charsets
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jshell
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.localedata
-2022-05-20 07:34:23 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.naming.dns
-2022-05-20 07:34:23 [INFO ] c.p.p.IncrementalLauncher:154 - Load model from cache...
-2022-05-20 07:34:23 [INFO ] c.p.p.IncrementalLauncher:168 - Build model incrementally...
-2022-05-20 07:34:23 [INFO ] c.p.p.IncrementalLauncher:169 - Current time: 1653024863289
-2022-05-20 07:34:23 [INFO ] c.p.p.IncrementalLauncher:170 - Last build time: 1652991736647
-2022-05-20 07:34:23 [INFO ] c.p.p.IncrementalLauncher:171 - Keyset size: 4
-2022-05-20 07:34:23 [INFO ] c.p.p.IncrementalLauncher:172 - Input sources size: 4
-2022-05-20 07:34:23 [INFO ] c.p.p.IncrementalLauncher:178 - Removed sources size: 0
-2022-05-20 07:34:23 [INFO ] c.p.p.IncrementalLauncher:179 - Added sources size: 0
-2022-05-20 07:34:23 [INFO ] c.p.p.IncrementalLauncher:180 - Common sources size: 4
-2022-05-20 07:34:23 [INFO ] c.p.p.IncrementalLauncher:191 - Incremental sources size: 3
-2022-05-20 07:34:23 [INFO ] c.p.p.IncrementalLauncher:194 - Old types size: 4
-2022-05-20 07:34:23 [INFO ] c.p.p.IncrementalLauncher:205 - Changed types size: 3
-2022-05-20 07:34:23 [INFO ] c.p.p.IncrementalLauncher:207 - Enter types loop
-2022-05-20 07:34:23 [INFO ] c.p.p.IncrementalLauncher:229 - Exit types loop
-2022-05-20 07:34:23 [INFO ] c.p.p.IncrementalLauncher:241 - Old packages size: 1
-2022-05-20 07:34:23 [INFO ] c.p.p.IncrementalLauncher:250 - Data processed
-2022-05-20 07:34:23 [INFO ] c.p.p.IncrementalLauncher:256 - Added: 0
-2022-05-20 07:34:23 [INFO ] c.p.p.IncrementalLauncher:257 - Removed: 0
-2022-05-20 07:34:23 [INFO ] c.p.p.IncrementalLauncher:258 - Modified : 3
-2022-05-20 07:34:24 [INFO ] c.p.p.IncrementalLauncher:312 - Cache saving started.
-2022-05-20 07:34:24 [INFO ] c.p.p.IncrementalLauncher:355 - Cache saving finished.
-2022-05-20 07:34:24 [INFO ] c.p.p.Module:383 - Model build success.
-2022-05-20 07:34:24 [INFO ] c.p.p.IncrementalLauncher:278 - Build model from scratch...
-2022-05-20 07:34:25 [INFO ] c.p.p.IncrementalLauncher:312 - Cache saving started.
-2022-05-20 07:34:25 [INFO ] c.p.p.IncrementalLauncher:355 - Cache saving finished.
-2022-05-20 07:34:25 [INFO ] c.p.p.Module:383 - Model build success.
+2022-05-20 08:29:36 [INFO ] c.p.r.NativeLoader:64 - ********************************
+2022-05-20 08:29:36 [INFO ] c.p.r.NativeLoader:65 - Native library search paths: 
+2022-05-20 08:29:36 [INFO ] c.p.r.NativeLoader:948 - C:\Users\dell\AppData\Roaming\PVS-Studio-Java\7.18.59860
+2022-05-20 08:29:36 [INFO ] c.p.r.NativeLoader:948 - .
+2022-05-20 08:29:36 [INFO ] c.p.r.NativeLoader:948 - C:\Users\dell\AppData\Roaming\PVS-Studio-Java\7.18.59860\..
+2022-05-20 08:29:36 [INFO ] c.p.r.NativeLoader:948 - C:\Users\dell\AppData\Roaming\PVS-Studio-Java\7.18.59860\..\..
+2022-05-20 08:29:36 [INFO ] c.p.r.NativeLoader:948 - C:\Users\dell\AppData\Roaming\PVS-Studio-Java\7.18.59860\..\..\build
+2022-05-20 08:29:36 [INFO ] c.p.r.NativeLoader:67 - Additional path: native/win
+2022-05-20 08:29:36 [INFO ] c.p.r.NativeLoader:76 - Native library found: C:\Users\dell\AppData\Roaming\PVS-Studio-Java\7.18.59860\native\win\analysis-core.dll
+2022-05-20 08:29:36 [INFO ] c.p.r.NativeLoader:77 - ********************************
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:49 - Module: Topology_API
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:50 - Sources:
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:52 - Classpath:
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jsobject
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jdwp.agent
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jcmd
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.desktop
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.crypto.ec
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jartool
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.security.jgss
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.javadoc
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.scripting.nashorn
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.accessibility
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.xml.dom
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.smartcardio
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.naming.rmi
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.management.rmi
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jstatd
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jconsole
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.naming
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.xml
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.datatransfer
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.dynalink
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.compiler
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.instrument
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.security.jgss
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.jvmstat
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.rmi
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.management.agent
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jfr
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.management.jfr
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.ed
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.pack
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.transaction.xa
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.editpad
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.vm.compiler.management
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jdeps
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.rmic
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.sctp
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.net
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.xml.crypto
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.net.http
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.prefs
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.se
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.crypto.mscapi
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.zipfs
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.httpserver
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.compiler
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.unsupported
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.logging
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.security.sasl
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.vm.compiler
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.sql.rowset
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.base
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.sql
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.scripting.nashorn.shell
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.security.auth
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.crypto.cryptoki
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jdi
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.management
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.management
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.attach
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.scripting
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.vm.ci
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.unsupported.desktop
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.le
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jlink
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.hotspot.agent
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.opt
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.aot
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.charsets
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jshell
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.localedata
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.naming.dns
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:49 - Module: Topology_API.test
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:50 - Sources:
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/Desktop/Topology API/src/test/java
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:52 - Classpath:
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jsobject
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jdwp.agent
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.0/fc9dff4bb36d627bdc553de77e1f17efd790876c/apiguardian-api-1.1.0.jar
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jcmd
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.9.0/8a1167e089096758b49f9b34066ef98b2f4b37aa/gson-2.9.0.jar
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.desktop
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.crypto.ec
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jartool
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.security.jgss
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.7.0/eadb73c5074a4ac71061defd00fc176152a4d12c/junit-platform-engine-1.7.0.jar
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.javadoc
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.scripting.nashorn
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.accessibility
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.7.0/d9044d6b45e2232ddd53fa56c15333e43d1749fd/junit-jupiter-engine-5.7.0.jar
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.xml.dom
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.smartcardio
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.naming.rmi
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.management.rmi
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jstatd
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/Desktop/Topology API/build/classes/java/main
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jconsole
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.naming
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.xml
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.datatransfer
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.dynalink
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.compiler
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.instrument
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.security.jgss
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.jvmstat
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.rmi
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.management.agent
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jfr
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.management.jfr
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.ed
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.7.0/b25f3815c4c1860a73041e733a14a0379d00c4d5/junit-jupiter-api-5.7.0.jar
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.pack
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.transaction.xa
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.editpad
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.vm.compiler.management
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jdeps
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.rmic
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.sctp
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.net
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.xml.crypto
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.net.http
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/.gradle/caches/modules-2/files-2.1/junit/junit/4.13.1/cdd00374f1fee76b11e2a9d127405aa3f6be5b6a/junit-4.13.1.jar
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.prefs
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.se
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.crypto.mscapi
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.zipfs
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.httpserver
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.compiler
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.unsupported
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.logging
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.security.sasl
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.vm.compiler
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.sql.rowset
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.base
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.sql
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.scripting.nashorn.shell
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.security.auth
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.crypto.cryptoki
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jdi
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/28c11eb91f9b6d8e200631d46e20a7f407f2a046/opentest4j-1.2.0.jar
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.management
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.management
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.attach
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.scripting
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.vm.ci
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.unsupported.desktop
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.le
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jlink
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.hotspot.agent
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.opt
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.aot
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.7.0/84e309fbf21d857aac079a3c1fffd84284e1114d/junit-platform-commons-1.7.0.jar
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.charsets
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jshell
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.localedata
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.naming.dns
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:49 - Module: Topology_API.main
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:50 - Sources:
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/Desktop/Topology API/src/main/java
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:52 - Classpath:
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jsobject
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jdwp.agent
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jcmd
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.9.0/8a1167e089096758b49f9b34066ef98b2f4b37aa/gson-2.9.0.jar
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.desktop
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.crypto.ec
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jartool
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.security.jgss
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.javadoc
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.scripting.nashorn
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.accessibility
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.xml.dom
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.smartcardio
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.naming.rmi
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.management.rmi
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jstatd
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jconsole
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.naming
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.xml
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.datatransfer
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.dynalink
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.compiler
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.instrument
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.security.jgss
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.jvmstat
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.rmi
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.management.agent
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jfr
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.management.jfr
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.ed
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.pack
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.transaction.xa
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.editpad
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.vm.compiler.management
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jdeps
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.rmic
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.sctp
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.net
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.xml.crypto
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.net.http
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/.gradle/caches/modules-2/files-2.1/junit/junit/4.13.1/cdd00374f1fee76b11e2a9d127405aa3f6be5b6a/junit-4.13.1.jar
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.prefs
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.se
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.crypto.mscapi
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.zipfs
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dell/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.httpserver
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.compiler
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.unsupported
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.logging
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.security.sasl
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.vm.compiler
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.sql.rowset
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.base
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.sql
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.scripting.nashorn.shell
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.security.auth
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.crypto.cryptoki
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jdi
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.management
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.management
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.attach
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/java.scripting
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.vm.ci
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.unsupported.desktop
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.le
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jlink
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.hotspot.agent
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.internal.opt
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.aot
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.charsets
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.jshell
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.localedata
+2022-05-20 08:29:38 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk-12.0.2!/jdk.naming.dns
+2022-05-20 08:29:38 [INFO ] c.p.p.IncrementalLauncher:154 - Load model from cache...
+2022-05-20 08:29:39 [INFO ] c.p.p.IncrementalLauncher:168 - Build model incrementally...
+2022-05-20 08:29:39 [INFO ] c.p.p.IncrementalLauncher:169 - Current time: 1653028179040
+2022-05-20 08:29:39 [INFO ] c.p.p.IncrementalLauncher:170 - Last build time: 1653024864160
+2022-05-20 08:29:39 [INFO ] c.p.p.IncrementalLauncher:171 - Keyset size: 4
+2022-05-20 08:29:39 [INFO ] c.p.p.IncrementalLauncher:172 - Input sources size: 4
+2022-05-20 08:29:39 [INFO ] c.p.p.IncrementalLauncher:178 - Removed sources size: 0
+2022-05-20 08:29:39 [INFO ] c.p.p.IncrementalLauncher:179 - Added sources size: 0
+2022-05-20 08:29:39 [INFO ] c.p.p.IncrementalLauncher:180 - Common sources size: 4
+2022-05-20 08:29:39 [INFO ] c.p.p.IncrementalLauncher:191 - Incremental sources size: 2
+2022-05-20 08:29:39 [INFO ] c.p.p.IncrementalLauncher:194 - Old types size: 4
+2022-05-20 08:29:39 [INFO ] c.p.p.IncrementalLauncher:205 - Changed types size: 2
+2022-05-20 08:29:39 [INFO ] c.p.p.IncrementalLauncher:207 - Enter types loop
+2022-05-20 08:29:39 [INFO ] c.p.p.IncrementalLauncher:229 - Exit types loop
+2022-05-20 08:29:39 [INFO ] c.p.p.IncrementalLauncher:241 - Old packages size: 1
+2022-05-20 08:29:39 [INFO ] c.p.p.IncrementalLauncher:250 - Data processed
+2022-05-20 08:29:39 [INFO ] c.p.p.IncrementalLauncher:256 - Added: 0
+2022-05-20 08:29:39 [INFO ] c.p.p.IncrementalLauncher:257 - Removed: 0
+2022-05-20 08:29:39 [INFO ] c.p.p.IncrementalLauncher:258 - Modified : 2
+2022-05-20 08:29:39 [INFO ] c.p.p.IncrementalLauncher:312 - Cache saving started.
+2022-05-20 08:29:40 [INFO ] c.p.p.IncrementalLauncher:355 - Cache saving finished.
+2022-05-20 08:29:40 [INFO ] c.p.p.Module:383 - Model build success.
+2022-05-20 08:29:40 [INFO ] c.p.p.IncrementalLauncher:154 - Load model from cache...
+2022-05-20 08:29:40 [INFO ] c.p.p.IncrementalLauncher:168 - Build model incrementally...
+2022-05-20 08:29:40 [INFO ] c.p.p.IncrementalLauncher:169 - Current time: 1653028180711
+2022-05-20 08:29:40 [INFO ] c.p.p.IncrementalLauncher:170 - Last build time: 1653024865306
+2022-05-20 08:29:40 [INFO ] c.p.p.IncrementalLauncher:171 - Keyset size: 1
+2022-05-20 08:29:40 [INFO ] c.p.p.IncrementalLauncher:172 - Input sources size: 1
+2022-05-20 08:29:40 [INFO ] c.p.p.IncrementalLauncher:178 - Removed sources size: 0
+2022-05-20 08:29:40 [INFO ] c.p.p.IncrementalLauncher:179 - Added sources size: 0
+2022-05-20 08:29:40 [INFO ] c.p.p.IncrementalLauncher:180 - Common sources size: 1
+2022-05-20 08:29:40 [INFO ] c.p.p.IncrementalLauncher:191 - Incremental sources size: 0
+2022-05-20 08:29:40 [INFO ] c.p.p.IncrementalLauncher:194 - Old types size: 1
+2022-05-20 08:29:40 [INFO ] c.p.p.IncrementalLauncher:205 - Changed types size: 0
+2022-05-20 08:29:40 [INFO ] c.p.p.IncrementalLauncher:207 - Enter types loop
+2022-05-20 08:29:40 [INFO ] c.p.p.IncrementalLauncher:229 - Exit types loop
+2022-05-20 08:29:40 [INFO ] c.p.p.IncrementalLauncher:241 - Old packages size: 1
+2022-05-20 08:29:40 [INFO ] c.p.p.IncrementalLauncher:250 - Data processed
+2022-05-20 08:29:40 [INFO ] c.p.p.IncrementalLauncher:256 - Added: 0
+2022-05-20 08:29:40 [INFO ] c.p.p.IncrementalLauncher:257 - Removed: 0
+2022-05-20 08:29:40 [INFO ] c.p.p.IncrementalLauncher:258 - Modified : 0
+2022-05-20 08:29:40 [INFO ] c.p.p.Module:383 - Model build success.
